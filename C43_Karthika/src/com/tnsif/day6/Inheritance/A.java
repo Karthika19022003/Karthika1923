@@ -1,6 +1,5 @@
 package com.tnsif.day6.Inheritance;
 
-
 public class A {
     void show() {
 		System.out.println("I'm a parent");
